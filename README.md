@@ -6,7 +6,7 @@ https://car-rental-website-one.vercel.app/
 
 ##  Next.js 13 applications
 
-- Used Next.js 13 App Router and Server Side Rendering
+- Used Typescript, Next.js 13 App Router and Server Side Rendering
 - Implemented Advanced Search Functionality
 - Created Filtering Capabilities
 - Optimized Metadata and SEO
